@@ -2,7 +2,7 @@
   <div>
     <v-app-bar app color="yellow">
       <v-app-bar-nav-icon @click="drawer = !drawer"></v-app-bar-nav-icon>
-      <v-toolbar-title>HOME</v-toolbar-title>
+      <v-toolbar-title>Clientes</v-toolbar-title>
       <v-spacer></v-spacer>
       <v-btn icon>
         <v-icon>mdi-magnify</v-icon>
@@ -49,8 +49,8 @@
         </v-list-item>
       </v-list>
     </v-navigation-drawer>
-    <div id="home">
-        <h1>HOME</h1>
+    <div id="clientes">
+        <h1>CLIENTES</h1>
     </div>
   </div>
   
