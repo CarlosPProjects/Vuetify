@@ -1,4 +1,4 @@
-# proyectohtml
+# HTML Project | Simple code.
 
 ## Project setup
 ```
